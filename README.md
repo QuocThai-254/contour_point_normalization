@@ -1,3 +1,5 @@
+# Contour's point normalization with Ramer-Douglas-Deucker and point interpolation
+
 # Table of content
 1. [About](#about)
 2. [Set up Environment](#set-up-environment)
